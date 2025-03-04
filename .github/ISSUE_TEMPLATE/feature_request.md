@@ -1,6 +1,6 @@
 ---
 name: 기능 요청
-about: 이 프로젝트에 대한 아이디어를 제안해주세요
+about: 이 프로젝트에 대한 아이디어를 제안합니다.
 title: ''
 labels: ''
 assignees: ''
