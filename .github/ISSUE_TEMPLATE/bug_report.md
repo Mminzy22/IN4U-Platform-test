@@ -1,29 +1,31 @@
----
-name: Bug report
-about: Create a report to help us improve
+name: 버그 보고
+about: 개선에 도움이 되도록 버그를 신고합니다.
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**버그 설명**
+어떤 버그인지 명확하고 간결하게 설명해주세요.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**재현 방법**
+버그를 재현하는 단계:
+1. '...'로 이동합니다.
+2. '....'을 클릭합니다.
+3. '....'로 스크롤합니다.
+4. 오류 발생
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**예상 동작**
+예상되는 동작을 명확하고 간결하게 설명해주세요.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**스크린샷**
+문제를 설명하는 데 도움이 되는 스크린샷을 첨부해주세요 (해당하는 경우).
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**데스크톱 환경 (다음 정보를 기입해주세요):**
+ - 운영체제 (OS): [예: win, mac]
+ - 브라우저: [예: Chrome, Safari]
+ - 버전: [예: 22]
+
+**추가 정보**
+문제에 대한 추가적인 정보를 여기에 적어주세요.
