@@ -1,12 +1,18 @@
 ---
+<<<<<<< HEAD
 name: 버그 리포트
 about: 개선을 위한 버그 리포트를 작성해주세요
+=======
+name: Bug report
+about: Create a report to help us improve
+>>>>>>> main
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
+<<<<<<< HEAD
 **버그 설명**  
 발생한 버그에 대한 명확하고 간결한 설명을 작성해주세요.
 
@@ -27,3 +33,25 @@ assignees: ''
 - OS: [예: Windows, macOS]  
 - 브라우저: [예: Chrome, Safari]  
 - 버전: [예: 22]  
+=======
+**Describe the bug**
+A clear and concise description of what the bug is.
+
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
+
+**Expected behavior**
+A clear and concise description of what you expected to happen.
+
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
+
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
+>>>>>>> main
